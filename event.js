@@ -2,7 +2,6 @@
  *by tangguohe@outlook.com  
  */
 
-
 //In my simple opinion, listener is a collection of events
 ;
 (function(global) {

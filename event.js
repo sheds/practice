@@ -1,5 +1,5 @@
 /**simple implement of DOM unrelated event
- *by tangguohe@outlook.com  
+ *code for practice 
  */
 
 //In my simple opinion, listener is a collection of events

@@ -78,12 +78,12 @@
 		},
 
 
-		on: function(evt, listener) {//alias of addEvent
+		on: function(evt, listener) {
 			this.addEvent(evt, listener);
 		},
 
 
-		off: function(evt, listener) {//aAlias of removeEvent
+		off: function(evt, listener) {
 			this.removeEvent(evt, listener);
 		},
 

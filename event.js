@@ -2,7 +2,7 @@
  *code for practice 
  */
 
-//In my simple opinion, listener is a collection of events
+//In a simple opinion, listener is a collection of events
 ;
 (function(global) {
 

@@ -78,12 +78,12 @@
 		},
 
 
-		on: function(evt, listener) {
+		on: function(evt, listener) {//shortcut of addEvent
 			this.addEvent(evt, listener);
 		},
 
 
-		off: function(evt, listener) {
+		off: function(evt, listener) {//shortcut of removeEvent
 			this.removeEvent(evt, listener);
 		},
 
